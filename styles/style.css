@@ -108,13 +108,13 @@ body {
 
 .icon{
     width: 25px;
+}    
 
 .img_home{
     max-width: 100%;
     height: auto;
 }
-    
-}
+
 
 .apresentacao__links__link:hover{
     background-color: #272727;
