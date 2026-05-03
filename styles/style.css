@@ -171,7 +171,8 @@ body {
 }
 
 .img img {
-    width: 650px;
+    max-width: 100%;
+    heigth: auto;
 }
 
 .teste {
