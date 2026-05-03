@@ -108,6 +108,11 @@ body {
 
 .icon{
     width: 25px;
+
+.img_home{
+    max-width: 100%;
+    height: auto;
+}
     
 }
 
